@@ -1,4 +1,4 @@
-package Exercicio.Conversor;
+package Exercicio_Conversor;
 
 public class ConversorTest {
     public static void main(String[] args) {

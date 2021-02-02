@@ -1,4 +1,4 @@
-package Exercicio.Conversor;
+package Exercicio_Conversor;
 
 public class ConversorArea {
     public static double metroQuadrado = 10.76;
